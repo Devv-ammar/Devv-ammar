@@ -17,7 +17,7 @@
 ### 🏭 What I Do at AGI Denim
 I build and maintain internal enterprise mobile applications that run factory and warehouse operations for **AGI Denim**, one of Pakistan's leading denim manufacturers — connecting mobile apps directly to **Oracle EBS/APEX** backends used across the business.
 - 📦 **Vehicle Scanner** — QR-based vehicle in/out tracking system for the industrial facility
-- 👥 **Employee Self-Service (ESS)** — salary slips, attendance, and miss-request management for staff
+- 👥 **Employee Self-Service (ESS)** — salary slips, attendance, and miss-request management for all AGI employees
 - 🏗️ **Warehouse Suite** — consolidated three separate apps (**InterOrg**, **IGP Inward**, **Receiving**) into a single unified application connected to Oracle EBS
 - 🧵 **Sewing Automation** — QR code scanning system for stitching machines to track production on the sewing floor
 - 🔄 **Native → Cross-Platform Migration** — migrating internal Android apps originally built in **Kotlin/Jetpack Compose** to **Flutter**, for a unified codebase across platforms
